@@ -1,0 +1,14 @@
+#COLORS
+theme = "tokyonight_night"
+background-opacity = 0.90
+background = #000000
+
+#FONT
+font-family = "FiraCode Nerd Font"
+font-size = 19
+
+#WINDOW
+window-decoration = false
+window-padding-x = 10
+window-padding-y = 10
+fullscreen = true
